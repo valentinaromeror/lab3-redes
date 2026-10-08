@@ -7,7 +7,7 @@
 #include <sys/socket.h>
 #include <sys/select.h>
 
-#define PUERTO 5000
+#define PUERTO 6000
 #define MAX_CLIENTES 100
 #define MAX_TEMAS 10
 

@@ -1,2 +1,6 @@
 broker_tcp
 broker_udp
+publisher_tcp
+publisher_udp
+subscriber_tcp
+subscriber_udp
